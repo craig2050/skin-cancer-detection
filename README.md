@@ -1,5 +1,5 @@
 
-# Skin Cancer Detection Using TensorFlow
+# Skin Cancer Detection (Neural Networks - CNN - TensorFlow)
 
 This project demonstrates the use of a custom Convolutional Neural Network (CNN) architecture built from scratch using **TensorFlow** to detect skin cancer based on image data. The dataset contains images categorized as either **benign** or **malignant** skin lesions, and the model is trained to classify the images accordingly.
 
